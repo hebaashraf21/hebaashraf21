@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **improving my problem solving skills.**
 
-- 🌱 I’m currently learning **flutter.**
+- 🌱 I’m currently learning mobile development using **flutter.**
 
 - 👯 I’m looking to collaborate on **a flutter project.**
+
+- 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/flutter-projects/9781838647773/"> "Flutter Projects" </a> by Simone Alessandria.
 
 - 💬 Ask me about **anything related to computer engineering. I will be happy to help.**
 
