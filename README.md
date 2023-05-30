@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! It is Heba Ashraf</h1>
 
 
-<div align="center">
-<div align="center">A 4th - year Computer Engineering Student who has the passion of seeing her ideas develop into real products 
+<div >
+<div >A 4th - year Computer Engineering Student who has the passion of seeing her ideas develop into real products 
 that can make a person learn, enjoy or maybe have a little bit easier life.
 
 So because of my love in creating beautiful, well-organized and user-friendly applications, my passion to learn how to put my ideas into a clean code, and my hope to excel in problem-solving
