@@ -5,8 +5,7 @@
 <div >A 4th - year Computer Engineering Student who has the passion of seeing her ideas develop into real products 
 that can make a person learn, enjoy or maybe have a little bit easier life.
 
-So because of my love in creating beautiful, well-organized and user-friendly applications, my passion to learn how to put my ideas into a clean code, and my hope to excel in problem-solving
- I have effectively developed multiple applications that demonstrate my talent for crafting user-friendly and captivating experiences.
+So because of my love in creating beautiful, well-organized and user-friendly applications, my passion to learn how to put my ideas into a clean code, and my hope to excel in problem-solving, I have effectively developed multiple applications that demonstrate my talent for crafting user-friendly and captivating experiences.
  Presently, I am actively pursuing an internship opportunity to advance my skills and make valuable contributions to real-life projects in this domain.
  and I am also focusing on improving my problem solving skills.</p>
 </div>
