@@ -1,21 +1,18 @@
 <h1 align="center">Hey there! It is Heba Ashraf</h1>
-<h3 align="center">A passionate computer engineering student at faculty of engineering, Cairo University.</h3>
+
 
 <div align="center">
-<img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" align="center" style="width: 100%" />
+<div align="center">A 4th - year Computer Engineering Student who has the passion of seeing her ideas develop into real products 
+that can make a person learn, enjoy or maybe have a little bit easier life.
+
+So because of my love in creating beautiful, well-organized and user-friendly applications, my passion to learn how to put my ideas into a clean code, and my hope to excel in problem-solving
+ I have effectively developed multiple applications that demonstrate my talent for crafting user-friendly and captivating experiences.
+ Presently, I am actively pursuing an internship opportunity to advance my skills and make valuable contributions to real-life projects in this domain.
+ and I am also focusing on improving my problem solving skills.</p>
+</div>
 </div>  
 
-- 🔭 I’m currently working on **improving my problem solving skills.**
 
-- 🌱 I’m currently learning mobile development using **flutter.**
-
-- 👯 I’m looking to collaborate on **a flutter project.**
-
-- 📖 Currently Reading: <a href="https://www.oreilly.com/library/view/flutter-projects/9781838647773/"> "Flutter Projects" </a> by Simone Alessandria.
-
-- 💬 Ask me about **anything related to computer engineering. I will be happy to help.**
-
-- 📫 How to reach me **hebaashraf11124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
