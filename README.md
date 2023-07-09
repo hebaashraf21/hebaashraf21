@@ -3,7 +3,7 @@
 
 
 <div >
-<div >A 3rd- year Computer Engineering Student who has the passion of seeing her ideas develop into real products 
+<div >A 4th- year Computer Engineering Student who has the passion of seeing her ideas develop into real products 
 that can make a person learn, enjoy or maybe have a little bit easier life.
 
 So because of my love in creating beautiful, well-organized and user-friendly applications, my passion to learn how to put my ideas into a clean code, and my hope to excel in problem-solving, I have effectively developed multiple applications that demonstrate my talent for crafting user-friendly and captivating experiences.
